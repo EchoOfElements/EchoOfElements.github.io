@@ -1,0 +1,9 @@
+Origin: EchoOfElements's Repo
+Label: EchoOfElements's Repo
+Suite: stable
+Version: 1.0
+Codename: EchoOfElements
+Architectures: iphoneos-arm
+Components: main
+Description: EchoOfElements's Repo
+MD5Sum:
